@@ -16,5 +16,5 @@
   * до 425 пикселей — мобильные устройства.
 
   ### ССылка на GitHub Pages:
-  
+  https://stephazub.github.io/russian-travel-bootcamp/
 

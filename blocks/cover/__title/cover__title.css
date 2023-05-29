@@ -1,6 +1,6 @@
 .cover__title {
   text-align: center;
-  margin: 0 auto 0 auto;
+  margin: 0 auto;
   padding: 0;
   color: #FFFFFF;
   font-size: 72px;
@@ -14,6 +14,6 @@
   .cover__title {
     font-size: 32px;
     line-height: 35px;
-    width: 240px;
+    max-width: 240px;
   }
 }

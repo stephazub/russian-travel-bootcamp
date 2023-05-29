@@ -21,12 +21,12 @@
 
 @media screen and (max-width: 767px) {
   .header {
-    width: 382.5px;
+    max-width: 382.5px;
   }
 }
 
 @media screen and (max-width: 424px) {
   .header {
-    width: 288px;
+    max-width: 288px;
   }
 }

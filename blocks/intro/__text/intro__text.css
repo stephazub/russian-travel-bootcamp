@@ -17,13 +17,13 @@
 
 @media screen and (max-width: 767px) {
   .intro__text {
-    width: 382.5px;
+    max-width: 382.5px;
     margin: 0 auto 0 auto;
   }
 }
 
 @media screen and (max-width: 424px) {
   .intro__text {
-    width: 288px;
+    max-width: 288px;
   }
 }

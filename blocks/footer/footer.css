@@ -23,6 +23,7 @@
   .footer {
     max-width: 425px;
     flex-direction: column;
+    padding: 64px 0 0 0;
   }
 }
 

@@ -4,14 +4,15 @@
   line-height: 76px;
   font-family: 'Inter', sans-serif;
   font-weight: 900;
-  width: 460px;
+  max-width: 460px;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
 
 @media screen and (max-width: 1279px) {
   .place__title {
-    width: 440px;
+    max-width: 440px;
   }
 }
 

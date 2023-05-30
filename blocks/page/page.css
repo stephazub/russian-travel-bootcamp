@@ -33,6 +33,5 @@
 @media screen and (max-width: 424px) {
   .page {
     max-width: 320px;
-    min-width: 319px;
   }
 }
